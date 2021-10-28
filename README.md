@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daekwon00
+- 👋 Hi, I’m James Yoo (yoosw00@gmail.com)
 - 👀 I’m interested in Computer Graphics, meta-bus
 - 🌱 I’m currently learning Streaming Protocol
 - 💞️ I’m looking to collaborate on ...
