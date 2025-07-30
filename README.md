@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Yoo (yoosw00@gmail.com)
 - 👀 I’m interested in web develop (front and backend, DB)
-- 🌱 I’m currently learning Spring boot with intellij.
+- 🌱 I’m currently learning AI code.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
