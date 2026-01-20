@@ -1,4 +1,4 @@
-- 👋 Hi, I’m James Yoo (yoosw00@gmail.com)
+- 👋 Hi, I’m daekwon Yoo (yoosw00@gmail.com)
 - 👀 I’m interested in web develop (front and backend, DB)
 - 🌱 I’m currently learning AI code.
 - 💞️ I’m looking to collaborate on ...
