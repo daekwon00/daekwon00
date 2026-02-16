@@ -5,12 +5,12 @@
   금융·공공·클라우드 분야의 엔터프라이즈 역량을 AI/ML에 접목하여, 실무에 바로 적용 가능한 AI
   솔루션을 만들어갑니다.
 
-  ## Tech Stack
-
-  **AI/ML** — Python, PyTorch, LangChain, ChromaDB, OpenAI API, HuggingFace
-  **Backend** — Java, Spring Boot, Spring Batch, FastAPI, Node.js
-  **Frontend** — React, Next.js, TypeScript, Tailwind CSS
-  **Cloud/Infra** — AWS, NHN Cloud, Docker, Kafka
+  ## Tech Stack                                                                                     
+                                                            
+  **AI/ML** — Python, PyTorch, LangChain, ChromaDB, OpenAI API, HuggingFace<br>
+  **Backend** — Java, Spring Boot, Spring Batch, FastAPI, Node.js<br>
+  **Frontend** — React, Next.js, TypeScript, Tailwind CSS<br>
+  **Cloud/Infra** — AWS, NHN Cloud, Docker, Kafka<br>
   **DB** — Oracle, PostgreSQL, MS-SQL, Supabase (pgvector)
 
   ## Currently
